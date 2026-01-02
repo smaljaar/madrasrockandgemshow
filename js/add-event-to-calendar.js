@@ -2,8 +2,8 @@ function addToCalendar() {
     const eventDetails = {
         title: 'Madras Rock and Gem Show',
         location: 'Fairgrounds in Madras, Oregon',
-        startDate: '20250626',
-        endDate: '20250630', // End date is exclusive, so this includes June 29
+        startDate: '20260625',
+        endDate: '20260629', // End date is exclusive, so this includes June 28 but not June 29.
         description: 'Explore the amazing world of Rocks and Gems in Oregon\'s beautiful Madras fairgrounds. Vendors, displays, and activities for all ages!',
     };
 
